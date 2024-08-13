@@ -6,7 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-![demo](/Users/phoebe/Downloads/Antra HW/hw4_0812/user-profile-proj/demo.png)
+<img width="1303" alt="Snipaste_2024-08-13_10-22-40" src="https://github.com/user-attachments/assets/e976d633-1d9a-4fef-89fa-333ac87b648c">
+
 
 ## Development server
 
